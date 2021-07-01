@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BENXi Hugo BLOG</title>
-    <link>https://benliang0419.github.io/</link>
-    <description>Recent content on BENXi Hugo BLOG</description>
+    <title>Ports on BENXi Hugo BLOG</title>
+    <link>https://benliang0419.github.io/port/</link>
+    <description>Recent content in Ports on BENXi Hugo BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jul 2021 15:46:52 +0800</lastBuildDate><atom:link href="https://benliang0419.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jul 2021 15:46:52 +0800</lastBuildDate><atom:link href="https://benliang0419.github.io/port/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>帅哥</title>
       <link>https://benliang0419.github.io/port/blog/</link>
